@@ -1,0 +1,28 @@
+.Wrapper {
+  position: fixed;
+  bottom: 20px;
+  left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #ccd5ae;
+}
+
+.Content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: #e9edc9;
+  border-radius: 50%;
+}
+
+.Icon {
+  width: 22px;
+  height: 22px;
+  background: url(../assets/icons/IcMSettings.svg);
+}
